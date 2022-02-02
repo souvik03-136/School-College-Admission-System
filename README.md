@@ -1,1 +1,0 @@
-# School-College-Admission-System
